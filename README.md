@@ -1,5 +1,9 @@
 # Fulfillment Center One Service
 
+Start the service:
+
+        mvn exec:java
+
 This is the REST service for fulfillment center one in my Pluralsight Apache Camel course. 
 
 The URL is: 
