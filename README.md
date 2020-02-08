@@ -4,7 +4,7 @@ Start the service:
 
         mvn exec:java
 
-This is the REST service for fulfillment center one in my Pluralsight Apache Camel course. 
+This is the REST service for Fulfillment Center One in my Pluralsight Apache Camel course and should be used with the camel / spring app in the camel-spring-jpa-order-fulfillment-processor repository.
 
 The URL is: 
 
