@@ -1,4 +1,6 @@
-# Fulfillment Center One Service
+# REST Endpoint to be used with the camel-spring-jpa-order-fulfillment-processor repository
+
+This is the REST service for Fulfillment Center One in my Pluralsight Apache Camel course and should be used with the camel / spring app in the camel-spring-jpa-order-fulfillment-processor repository.
 
 Start the service:
 
