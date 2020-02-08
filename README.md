@@ -1,12 +1,10 @@
-# REST Endpoint to be used with the camel-spring-jpa-order-fulfillment-processor repository
+# Jersey Resource 
 
-This is the REST service for Fulfillment Center One in my Pluralsight Apache Camel course and should be used with the camel / spring app in the camel-spring-jpa-order-fulfillment-processor repository.
+This is a Jersey REST resource used in the Pluralsight course, Introduction to Integration With Apache Camel. This resource should be used with the camel-spring-jpa-order-fulfillment-processor repository. The app in the camel-spring-jpa-order-fulfillment-processor repository builds a Camel route and uses this Jersey resource as an endpoint. 
 
 Start the service:
 
         mvn exec:java
-
-This is the REST service for Fulfillment Center One in my Pluralsight Apache Camel course and should be used with the camel / spring app in the camel-spring-jpa-order-fulfillment-processor repository.
 
 The URL is: 
 
