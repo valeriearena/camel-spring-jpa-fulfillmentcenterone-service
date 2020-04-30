@@ -1,4 +1,4 @@
-# spring-boot-mvc-jersey-jpa
+# camel-spring-jpa-fulfillmentcenterone-service
 This is a Jersey REST resource used in the Pluralsight course, Introduction to Integration With Apache Camel. This resource should be used with the camel-spring-jpa-order-fulfillment-processor repository. The app in the camel-spring-jpa-order-fulfillment-processor repository builds a Camel route and uses this Jersey resource as an endpoint. 
 
 Start the service:
